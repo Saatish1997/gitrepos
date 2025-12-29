@@ -1,2 +1,7 @@
 Hello World !
 I am learning devops !!!
+
+Today is not a very special day 
+I am very good at devops and learning devops 
+
+Today is Monday and boring day
